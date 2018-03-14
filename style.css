@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.header-container{
+    display: flex;
+    background:#1c2e39; 
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    border-bottom: 3px solid #00a1f5;
+}
+
+.header-container a{
+ color: #FFEBEE;   
+ text-align: center;
+ font-weight: bold;
+ text-decoration: none;
+
+}
+.table th, td, tr{
+    text-align: center;
+}
